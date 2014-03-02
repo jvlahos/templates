@@ -3,7 +3,7 @@
 **Point Two Five** is a (hopefully growing) set of user experience and interface sketching templates. All elements of the templates are crafted with ultra-fine 0.25pt lines to keep the emphasis on _your_ work, not mine. All elements are placed on letter-sized, 8.5-by-11 inch canvases for your convenience.
 
 * If you're curious what they look like, see the screenshots [below](#images).
-* If you're interested in grabbing and going, download a raw PDF file [here](https://github.com/jvlahos/point-two-five/blob/master/point-two-five.pdf).
+* If you're interested in grabbing and going, download the latest PDF file [here](https://github.com/jvlahos/point-two-five/blob/master/point-two-five.pdf).
 * If you just want to say hello or thanks, tweet [@jeffvlahos](http://www.twitter.com/jeffvlahos) or email me.
 * If you're interested in contributing, read [onward](#contributing).
 
