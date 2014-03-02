@@ -1,18 +1,21 @@
-# point-two-five
-#### Printable UX/UI templates made with light, 0.25pt lines
+# Point Two Five
+#### Printable UX/UI templates made with only 0.25pt lines
+
+**General**
+* Grid
+
+**UI**
+* iPhone 4
+* iPad
+* Browser
+* OSX App
+* Cross-Device Set
+
+**UX**
+* Personas
+* Task Flow
+
 ==============
-![Template Image](/readme-imgs/point-two-five.jpg "Template Title")
+![UI Templates: Point Two Five](/readme-imgs/point-two-five.jpg "UI Templates: Point Two Five")
 ==============
-![Template Image](/readme-imgs/point-two-five2.jpg "Template Title")
-==============
-![Template Image](/readme-imgs/point-two-five3.jpg "Template Title")
-==============
-![Template Image](/readme-imgs/point-two-five4.jpg "Template Title")
-==============
-![Template Image](/readme-imgs/point-two-five5.jpg "Template Title")
-==============
-![Template Image](/readme-imgs/point-two-five6.jpg "Template Title")
-==============
-![Template Image](/readme-imgs/point-two-five7.jpg "Template Title")
-==============
-![Template Image](/readme-imgs/point-two-five8.jpg "Template Title")
+![UX Templates: Point Two Five](/readme-imgs/point-two-five2.jpg "UX Templates: Point Two Five")
