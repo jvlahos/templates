@@ -9,6 +9,7 @@
 
 ---
 ### Contributing
+Point Two Five templates are made (and should be edited) using InDesign CC.
 
 * If you have an idea, but not the time, [create an issue](https://github.com/jvlahos/point-two-five/issues/new) on this repository.
 * If you have time, but no ideas, see if there is any [open issue](https://github.com/jvlahos/point-two-five/issues?page=1&state=open) you can help with.
