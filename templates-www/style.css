@@ -1,0 +1,113 @@
+html, body{
+    height: 100%;
+    width: 100%;
+}
+body {
+    background-image: url(img/templates_background.jpg);
+    background-size: cover;
+    background-size: 125%;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    font-family: "omnes-pro", sans-serif;
+    font-weight: 100;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+}
+.link {
+    color: #489BCF;
+}
+.download-mod {
+    height: 300px;
+    width: 400px;
+    margin: auto;
+    position: absolute;
+    text-align: center;
+    top: 0; left: 0; bottom: 0; right: 0;
+}
+.title {
+    color: #AAAAAA;
+    font-size: 72px;
+    font-weight: normal;
+    line-height: 25%;
+}
+.subtitle {
+    color: #AAAAAA;
+    font-size: 24px;
+    font-weight: normal;
+    line-height: 50%;
+}
+.button {
+    outline: 0; border: 0;
+    background-color: #489BCF;
+    border-radius: 4px;
+    color: #FFFFFF;
+    display: block;
+    height: 30px;
+    font-size: 24px;
+    position: relative;
+    margin: 0 auto;
+    max-width: 175px;
+    overflow: hidden;
+    padding: 15px 30px;
+    text-align: center;
+    text-decoration: none;
+}
+.button, .btn-txt, .btn-icn {
+    transition: all 0.35s cubic-bezier(0.785, 0.135, 0.15, 0.86);
+}
+.btn-txt {
+    margin-top: 12px;
+    position: absolute;
+    top: 0; left: 0;
+    width: 100%;
+    }
+.btn-icn {
+    background-image: url(img/icn_download_40_40_x2.png);
+    background-size: cover;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    display: block;
+    height: 40px;
+    position: absolute;
+    width: 40px;
+    top: 15%;
+    left: 40%;
+    -webkit-transform: translateY(-200px);
+}
+.button:hover {
+    background-color: #75CF48;
+}
+.button:hover .btn-icn {
+    -webkit-transform: translateY(0px);
+}
+.button:hover .btn-txt {
+    -webkit-transform: translateY(200px);
+}
+
+.version {
+    display: block;
+    margin-top: 5px;
+}
+
+.license {
+    display: block;
+    margin-top: 10px;
+}
+
+.share-mod {
+    position: fixed;
+    bottom: 10px;
+    right: 0px;
+}
+
+.fb-like {
+    margin-top: 2px;
+    vertical-align: -6%;
+}
+
+.twitter-share-button {
+    margin-left: 5px;
+    vertical-align: middle;
+    width: 88px !important;
+}
