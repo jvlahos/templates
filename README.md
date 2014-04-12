@@ -33,8 +33,3 @@ $ git checkout -b add_iphone_5
 
 
 ---
-
-## Images
-
-![UI Templates: Point Two Five](/readme-imgs/point-two-five.jpg "UI Templates: Point Two Five")
-![UX Templates: Point Two Five](/readme-imgs/point-two-five2.jpg "UX Templates: Point Two Five")
